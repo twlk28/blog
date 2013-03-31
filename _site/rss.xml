@@ -5,8 +5,8 @@
         <description>Jekyll Bootstrap - Name Lastname</description>
         <link>http://twlk28.github.com</link>
         <link>http://twlk28.github.com</link>
-        <lastBuildDate>2013-03-30T21:45:18+08:00</lastBuildDate>
-        <pubDate>2013-03-30T21:45:18+08:00</pubDate>
+        <lastBuildDate>2013-03-31T20:10:55+08:00</lastBuildDate>
+        <pubDate>2013-03-31T20:10:55+08:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -39,13 +39,13 @@
 
 &lt;li&gt;install rvm requirements&lt;/li&gt;
 
-&lt;li&gt;&lt;a href='https://rvm.io/rubies/rubygems/'&gt;install ruby-1.9.2&lt;/a&gt; &amp;amp;&amp;amp; use ruby-1.9.2&lt;/li&gt;
+&lt;li&gt;&lt;a href='https://rvm.io/rubies/rubygems/]'&gt;install ruby-1.9.2&lt;/a&gt; &amp;amp;&amp;amp; use ruby-1.9.2&lt;/li&gt;
 
 &lt;li&gt;install rubygems&lt;/li&gt;
 
 &lt;li&gt;install jekyll&lt;/li&gt;
 &lt;/ol&gt;
-&lt;hr /&gt;
+
 &lt;h2 id='marboo'&gt;Marboo&lt;/h2&gt;
 
 &lt;h2 id='github'&gt;Github&lt;/h2&gt;
@@ -60,7 +60,7 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr /&gt;
-&lt;h1 id='id66'&gt;排版&amp;amp;布局&lt;/h1&gt;
+&lt;h1 id='id69'&gt;排版&amp;amp;布局&lt;/h1&gt;
 
 &lt;h2 id='web'&gt;web&lt;/h2&gt;
 
@@ -69,6 +69,10 @@
 &lt;h2 id='pad'&gt;pad&lt;/h2&gt;
 
 &lt;h2 id='phone'&gt;phone&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h2 id='id70'&gt;参考&lt;/h2&gt;
+
+&lt;p&gt;阮一峰的&lt;a href='http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html'&gt;github_page_and_jekyll&lt;/a&gt;&lt;/p&gt;
 &lt;hr /&gt;</description>
                 <link>http://twlk28.github.com/2013/03/30/text2blog</link>
                 <guid>http://twlk28.github.com/2013/03/30/text2blog</guid>
@@ -125,7 +129,7 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr /&gt;
-&lt;h1 id='id65'&gt;排版&amp;amp;布局&lt;/h1&gt;
+&lt;h1 id='id68'&gt;排版&amp;amp;布局&lt;/h1&gt;
 
 &lt;h2 id='web'&gt;web&lt;/h2&gt;
 
@@ -190,7 +194,7 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr /&gt;
-&lt;h1 id='id64'&gt;排版&amp;amp;布局&lt;/h1&gt;
+&lt;h1 id='id67'&gt;排版&amp;amp;布局&lt;/h1&gt;
 
 &lt;h2 id='web'&gt;web&lt;/h2&gt;
 
